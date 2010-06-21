@@ -1,0 +1,1004 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 7 0 R
+ /F4 8 0 R
+ /F5 9 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.maxmind.com/app/geolitecity) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 456.5402
+ 692.5936
+ 531.5602
+ 704.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.maxmind.com/app/geolitecity) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 680.5936
+ 103.8329
+ 692.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ipinfodb.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 163.8629
+ 680.5936
+ 203.8829
+ 692.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+7 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+8 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+9 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R ]
+ /Contents 23 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 22 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 24 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 22 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 25 0 R
+ /PageMode /UseNone
+ /Pages 22 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author ()
+ /CreationDate (D:20100621210209-01'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (SQLIGeoloc eZ Publish extension) >>
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 9
+ /First 15 0 R
+ /Last 21 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 665.0236
+ 0 ]
+ /Next 16 0 R
+ /Parent 14 0 R
+ /Title (LICENCE) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+16 0 obj
+<< /Count 4
+ /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 602.0236
+ 0 ]
+ /First 17 0 R
+ /Last 20 0 R
+ /Next 21 0 R
+ /Parent 14 0 R
+ /Prev 15 0 R
+ /Title (USAGE) >>
+endobj
+% 'Outline.8.0': class OutlineEntryObject 
+17 0 obj
+<< /Count 2
+ /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 503.0236
+ 0 ]
+ /First 18 0 R
+ /Last 19 0 R
+ /Next 20 0 R
+ /Parent 16 0 R
+ /Title (ip_info) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 353.8236
+ 0 ]
+ /Next 19 0 R
+ /Parent 17 0 R
+ /Title (country mode) >>
+endobj
+% 'Outline.9.1': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 236.8236
+ 0 ]
+ /Parent 17 0 R
+ /Prev 18 0 R
+ /Title (city mode) >>
+endobj
+% 'Outline.8.1': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Parent 16 0 R
+ /Prev 17 0 R
+ /Title (remote_ip) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 617.8236
+ 0 ]
+ /Parent 14 0 R
+ /Prev 16 0 R
+ /Title (DATABASE UPDATE) >>
+endobj
+% 'R22': class PDFPages 
+22 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 10 0 R
+ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R23': class PDFStream 
+23 0 obj
+% page stream
+<< /Length 7487 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.64 Tm /F2 20 Tf 24 TL 74.89488 0 Td (SQLIGeoloc eZ Publish extension) Tj T* -74.89488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.23 Tm /F2 15 Tf 18 TL 71.54238 0 Td (Version 1.0 - 2010 Jerome Vieilledent for SQLi) Tj T* -71.54238 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.022485 Tw 12 TL /F1 10 Tf 0 0 0 rg (SQLIGeoloc is an extension allowing to geolocate a user from his IP Address. It uses ) Tj 0 0 .501961 rg (Maxmind Geolite) Tj T* 0 Tw (database) Tj 0 0 0 rg (, provided by ) Tj 0 0 .501961 rg (IPInfoDB) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (LICENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .507209 Tw 12 TL /F1 10 Tf 0 0 0 rg (This eZ Publish extension is provided ) Tj /F3 10 Tf (as is) Tj /F1 10 Tf (, in GPL \(see LICENCE\). You should also read and agree the) Tj T* 0 Tw (Maxmind GeoLite Licence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (USAGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 45 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (SQLIGeoloc provides 2 ) Tj /F4 10 Tf (fetch functions ) Tj /F2 10 Tf (:) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 32 Tm  T* ET
+q
+1 0 0 1 10 36 cm
+Q
+q
+1 0 0 1 10 36 cm
+Q
+q
+1 0 0 1 10 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (ip_info) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 10 18 cm
+Q
+q
+1 0 0 1 10 18 cm
+Q
+q
+1 0 0 1 10 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (remote_ip) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 10 0 cm
+Q
+q
+1 0 0 1 10 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (ip_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Returns info for given IP adress. There are 2 modes \() Tj /F3 10 Tf (city ) Tj /F1 10 Tf (- default, ) Tj /F3 10 Tf (country) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 397.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F5 10 Tf 12 TL ({def $ip = '17.149.160.49') Tj T* (         $remoteInfos = fetch\('sqligeoloc', 'ip_info', hash\() Tj T* (                      'ip', $ip,) Tj T* (                      'mode', 'country'\)\)}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 365.8236 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.462765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Returned infos depends on chosen mode. IP is optional as the extension will try to ) Tj /F3 10 Tf (guess ) Tj /F1 10 Tf (the user IP) Tj T* 0 Tw (address with ) Tj /F2 10 Tf ($_SERVER['REMOTE_ADDR']) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.8236 cm
+q
+BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (country mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.8236 cm
+Q
+q
+1 0 0 1 62.69291 248.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ip_start) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ip_cidr) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (country_code \(ISO\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (country_name \(in english\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 248.8236 cm
+Q
+q
+1 0 0 1 62.69291 221.8236 cm
+q
+BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (city mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.8236 cm
+Q
+q
+1 0 0 1 62.69291 77.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ip_start) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (country_code \(ISO\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (country_name \(in english\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (region_code) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (region_name) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (city) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (zipcode) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R24': class PDFStream 
+24 0 obj
+% page stream
+<< /Length 2436 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (latitude) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (longitude) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (metrocode) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (remote_ip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Returns user IP address) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F5 10 Tf 12 TL ({def $ip = fetch\('sqligeoloc', 'remote_ip', hash\(\)\)}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 596.8236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (DATABASE UPDATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 566.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.958555 Tw (SQLIGeoloc database \(based on MAXMIND GeoLite database\) needs to be updated at least once a) Tj T* 0 Tw (month.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F3 10 Tf 12 TL (Crontab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F5 10 Tf 12 TL (@monthly php runcronjobs.php sqligeolocupdate) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R25': class PDFPageLabels 
+25 0 obj
+% Document Root
+<< /Nums [ 0
+ 26 0 R
+ 1
+ 27 0 R ] >>
+endobj
+% 'R26': class PDFPageLabel 
+26 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R27': class PDFPageLabel 
+27 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 28
+0000000000 65535 f
+0000000113 00000 n
+0000000257 00000 n
+0000000422 00000 n
+0000000609 00000 n
+0000000865 00000 n
+0000001121 00000 n
+0000001346 00000 n
+0000001527 00000 n
+0000001716 00000 n
+0000001875 00000 n
+0000002191 00000 n
+0000002472 00000 n
+0000002631 00000 n
+0000002874 00000 n
+0000002999 00000 n
+0000003167 00000 n
+0000003392 00000 n
+0000003604 00000 n
+0000003779 00000 n
+0000003951 00000 n
+0000004121 00000 n
+0000004281 00000 n
+0000004398 00000 n
+0000011986 00000 n
+0000014527 00000 n
+0000014633 00000 n
+0000014710 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\250\266\346pdk3r\300\351\353`q\3573\301) (\250\266\346pdk3r\300\351\353`q\3573\301)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 28 >>
+startxref
+14757
+%%EOF

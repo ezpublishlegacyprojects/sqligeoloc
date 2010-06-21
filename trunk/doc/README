@@ -1,0 +1,72 @@
+=================================
+ SQLIGeoloc eZ Publish extension
+=================================
+
+------------------------------------------------
+ Version 1.0 - 2010 Jerome Vieilledent for SQLi
+------------------------------------------------
+
+SQLIGeoloc is an extension allowing to geolocate a user from his IP Address.
+It uses `Maxmind Geolite database <http://www.maxmind.com/app/geolitecity>`_, provided by `IPInfoDB <http://ipinfodb.com>`_
+
+
+LICENCE
+=======
+This eZ Publish extension is provided *as is*, in GPL (see LICENCE).
+You should also read and agree the Maxmind GeoLite Licence.
+
+
+USAGE
+=====
+
+**SQLIGeoloc** provides 2 *fetch functions* :
+  - **ip_info**
+  - **remote_ip**
+
+ip_info
+-------
+Returns info for given IP adress. There are 2 modes (*city* - default, *country*).
+::
+  {def $ip = '17.149.160.49'
+  	   $remoteInfos = fetch('sqligeoloc', 'ip_info', hash(
+  			'ip', $ip,
+  			'mode', 'country'))}
+  
+
+Returned infos depends on chosen mode.
+IP is optional as the extension will try to *guess* the user IP address with **$_SERVER['REMOTE_ADDR']**
+
+*country* mode
+~~~~~~~~~~~~~~
+  - ip_start
+  - ip_cidr
+  - country_code (ISO)
+  - country_name (in english)
+
+*city* mode
+~~~~~~~~~~~
+  - ip_start
+  - country_code (ISO)
+  - country_name (in english)
+  - region_code
+  - region_name
+  - city
+  - zipcode
+  - latitude
+  - longitude
+  - metrocode 
+
+remote_ip
+---------
+Returns user IP address
+::
+  {def $ip = fetch('sqligeoloc', 'remote_ip', hash())}
+
+
+DATABASE UPDATE
+===============
+SQLIGeoloc database (based on MAXMIND GeoLite database) needs to be updated at least once a month.
+
+*Crontab*
+::
+  @monthly php runcronjobs.php sqligeolocupdate

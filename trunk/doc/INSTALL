@@ -1,0 +1,33 @@
+=========================
+ SQLIGeoloc Installation
+=========================
+
+1. Install *sqligeoloc* folder in *extension/*
+2. Activate the extension in an override of **site.ini**
+3. Install the SQL schema (only mysql is currently supported) : *sql/mysql/schema.sql*
+4. Regenerate autoloads for classes
+
+::
+  php bin/php/ezpgenerateautoloads.php -e -p
+
+5. Clear INI Caches
+
+::
+  php bin/php/ezcache.php --clear-tag=ini
+
+
+6. Database Installation
+   You have 2 options :
+     - Install the database with the SQL scripts located in the archive (extension/sqligeoloc/sql/mysql/sqligeoloc_mysql.tar.bz2)
+     - Update the IP Database by running the cronjob.
+       CAUTION ! Updating the database is quite long (~90min)
+
+::
+  php runcronjobs.php sqligeolocupdate
+
+7. Cronjob installation
+   SQLIGeoloc database (based on MAXMIND GeoLite database) needs to be updated at least once a month
+
+*Crontab*
+::
+  @monthly php runcronjobs.php sqligeolocupdate
