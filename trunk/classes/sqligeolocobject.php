@@ -53,6 +53,9 @@ abstract class SQLIGeolocObject extends eZPersistentObject
 	{
 		$result = null;
 		$ipLong = ip2long($ip);
+		// Convert to string as unsigned integer because of integer limitation on 32bits systems
+		// See http://php.net/manual/en/function.intval.php
+		$ipLong = sprintf('%u', $ipLong);
 		
 		if($ipLong === false)
 			throw new InvalidArgumentException("IP adress '$ip' is not considered valid");
