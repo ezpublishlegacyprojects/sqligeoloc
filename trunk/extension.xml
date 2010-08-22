@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<software>
+    <metadata>
+        <name>SQLi Geoloc</name>
+        <version>@@@VERSION@@@</version>
+        <copyright>Copyright (C) 2010 SQLi Agency - Jérôme Vieilledent</copyright>
+        <license>GNU General Public License v2.0</license>
+        <info_url>http://projects.ez.no/sqliimport</info_url>
+
+        <software>
+            <uses>
+                <name>IPInfoDB Database (Maxmind Geolite based)</name>
+                <license>Free to use, see Maxmind licence</license>
+                <copyright>Copyright (C) 2010 ipinfodb.com</copyright>
+                <info_url>http://ipinfodb.com/</info_url>
+            </uses>
+            <uses>
+                <name>Maxmind Geolite database</name>
+                <license>OPEN DATA LICENSE</license>
+                <copyright>Copyright (c) 2008 MaxMind, Inc.  All Rights Reserved.</copyright>
+                <info_url>http://www.maxmind.com/app/geolitecity</info_url>
+            </uses>
+        </software>
+
+    </metadata>
+</software>

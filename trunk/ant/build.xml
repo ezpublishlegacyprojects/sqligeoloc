@@ -15,7 +15,7 @@
 	
 	<target name="package" depends="init,export" description="Builds the package">
 		<replace dir="${build.dir.dist}" token="@@@VERSION@@@" value="${build.version}">
-			<include name="**/*.php"/>
+			<include name="**/*.php,extension.xml"/>
 		</replace>
 		<zip destfile="${build.dir}/sqligeoloc.zip" basedir="${build.dir.dist}" excludes="${build.dir.dist.extension}/ant/**,${build.dir.dist.extension}/tests/**"/>
 	</target>
